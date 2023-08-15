@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Ping Yang. I'm a master student from school of Mechanical Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (XJTU), advised by Prof. [Min Zeng](https://gr.xjtu.edu.cn/web/zengmin/2). 
+Hello! My name is Ping Yang. I'm a master student from school of Mechanical Engineering at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (XJTU), advised by Prof. [Min Zeng](https://gr.xjtu.edu.cn/web/zengmin/2). My research interest includes Heat and Mass Transfer, Two-phase Flow, graphene aerogel composite PCMs, and Computational Fluid Dynamics.
+
+During my graduate studies, I specialized in graphene aerogel composite PCMs and multiphase flow. I have several years of experience in numerical simulation and experiments on graphene aerogel composite PCMs and published some articles about those investigations. Moreover, I studied and specialized in various heat transfer enhancement methods like flow boiling, and I'm proficient in tools such as CFD software, as well as programming languages such as Matlab, C++, and FORTRAN. 
+
+**I am looking for a PhD position of Spring/Fall 2024 intake. Please feel free to [contact](mailto:yang2762473445@stu.xjtu.edu.cn) me for potential opportunities.**
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website

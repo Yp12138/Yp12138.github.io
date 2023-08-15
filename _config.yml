@@ -13,7 +13,7 @@ name                     : &name "Ping Yang"
 description              : &description "personal description"
 url                      : https://Yp12138.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yp12138/Yp12138.github.io"
+repository               : "Yp12138/Yp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ping Yang (Chris)"
-  avatar           : "11.JPG"
+  avatar           : "1.PNG"
   bio              : "Constantly evolving seeker of knowledge and growth"
   location         : "China Xi'an"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Yp12138" 
+  github           : "Yp12138" 
   google_plus      :
   keybase          :
   instagram        :

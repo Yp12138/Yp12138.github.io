@@ -6,7 +6,6 @@ excerpt: 'In this study, a numerical model is developed to quickly predict the f
 date: 2023-02-14
 venue: 'Energy'
 paperurl: 'https://doi.org/10.1016/j.energy.2023.126957'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 In this study, a numerical model is developed to quickly predict the flow distribution and heat transfer of two-phase flow in the parallel flow system, and the maximum average relative deviation with experimental data is 4.4%. The effects of geometric parameters and non-uniform thermal load on flow and heat transfer are discussed.
 

@@ -13,4 +13,4 @@ Hello! My name is Ping Yang. I'm a master student from school of Mechanical Engi
 During my graduate studies, I specialized in graphene aerogel composite PCMs and multiphase flow. I have several years of experience in numerical simulation and experiments on graphene aerogel composite PCMs and published some articles about those investigations. Moreover, I studied and specialized in various heat transfer enhancement methods like flow boiling, and I'm proficient in tools such as CFD software, as well as programming languages such as Matlab, C++, and FORTRAN. 
 
 **I am looking for a PhD position of Spring/Fall 2024 intake. Please feel free to [contact](mailto:yang2762473445@stu.xjtu.edu.cn) me for potential opportunities.**
-You can find my CV here: [Ping's CV](https://github.com/Yp12138/Yp12138.github.io/blob/master/assets/CV.pdf). 
+You can find my CV here: [Ping's CV](..assets/CV.pdf). 

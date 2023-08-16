@@ -1,7 +1,7 @@
 ---
 title: "*Confinement Effect of Graphene Interface on Phase Transition of n-Eicosane: Molecular Dynamics Simulations*"
 collection: publications
-permalink: /publication/er-2
+permalink: /publication/ER-2
 excerpt: 'In this article, the phase transition behavior of n-eicosane in slit-shaped pores between sheets of graphene is investigated by molecular dynamics simulation. It is found that the graphene interface makes the phase transition temperature of n-eicosane increase, under the initial slit widths of 1.5–5.3 nm.'
 date: 2020-07-07 
 venue: 'Langmuir'

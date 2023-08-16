@@ -1,7 +1,7 @@
 ---
 title: "*Flow Distribution and Heat Transfer Performance of Two-Phase Flow in Parallel Channels with Different Cross Section*"
 collection: publications
-permalink: /publication/2023-JCET-number-1
+permalink: /publication/JCET
 excerpt: 'A 3D numerical model of flow distribution and heat transfer of two-phase flow in parallel channels is developed and validated in the present study. The effect of channel cross section was investigated, and three typical cross section shapes are discussed.'
 date: 2022-09-01
 venue: 'Chemical Engineering Transactions'

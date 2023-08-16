@@ -11,4 +11,4 @@ In this study, a numerical model is developed to quickly predict the flow distri
 
 [Download paper here](http://Yp12138.github.io/files/Energy-Yangping-2023-final.pdf)
 
-**Ping Yang**, Weihao Ling, Ke Tian, et al. Flow Distribution and Heat Transfer Performance of Two-Phase Flow in Parallel Flow Heat Exchange System[J]. Energy, 2023, 270: 126957.
+**Ping Yang**, Weihao Ling, Ke Tian, et al. Flow Distribution and Heat Transfer Performance of Two-Phase Flow in Parallel Flow Heat Exchange System[J]. Energy, 2023, 270: 126957. 

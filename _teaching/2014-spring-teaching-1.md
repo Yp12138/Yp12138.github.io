@@ -1,9 +1,8 @@
----
+
 title: "Studying in University of Minnesota"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 location: "Minneapolis, US"
----
 
 Studied three courses: System Dynamics, Heat Transfer and Balloon & Rockets. 
 

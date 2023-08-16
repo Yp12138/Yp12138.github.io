@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Numerical Investigation on Flow Pattern, Heat Transfer and Pressure Drop Characteristics of Flow Boiling with Discrete Heat Sources"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-HTE-number-1
+excerpt: 'With the rapid growth of computing demand and the wide application of multichip devices, heat sources are distributed discretely in space. Therefore, the flow boiling in the mini-channel with two discrete heat sources is investigated in this study. The effects of heat source distribution, inlet fluid temperature and channel diameter on flow pattern, heat transfer and pressure drop are discussed in detail.'
+date: 2023-01-01
+venue: 'Heat Transfer Engineering'
+paperurl: 'https://doi.org/10.1080/01457632.2023.2213997'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+With the rapid growth of computing demand and the wide application of multichip devices, heat sources are distributed discretely in space. Therefore, the flow boiling in the mini-channel with two discrete heat sources is investigated in this study. The effects of heat source distribution, inlet fluid temperature and channel diameter on flow pattern, heat transfer and pressure drop are discussed in detail.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

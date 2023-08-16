@@ -1,5 +1,5 @@
 ---
-title: "Numerical Investigation on Flow Pattern, Heat Transfer and Pressure Drop Characteristics of Flow Boiling with Discrete Heat Sources"
+title: "*Numerical Investigation on Flow Pattern, Heat Transfer and Pressure Drop Characteristics of Flow Boiling with Discrete Heat Sources*"
 collection: publications
 permalink: /publication/2023-HTE-number-1
 excerpt: 'With the rapid growth of computing demand and the wide application of multichip devices, heat sources are distributed discretely in space. Therefore, the flow boiling in the mini-channel with two discrete heat sources is investigated in this study. The effects of heat source distribution, inlet fluid temperature and channel diameter on flow pattern, heat transfer and pressure drop are discussed in detail.'

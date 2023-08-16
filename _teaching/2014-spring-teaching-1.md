@@ -2,7 +2,7 @@
 title: "Studying in University of Minnesota"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-date: 2018/06-2018/08
+date: 2018-06
 location: "Minneapolis, US"
 ---
 

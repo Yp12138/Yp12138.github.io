@@ -11,4 +11,4 @@ The two-phase heat transfer characteristics and instability in parallel channels
 
 [Download paper here](https://doi.org/10.3390/en14154408)
 
-Wei Li, Xinyi Luo, **Ping Yang**, et al. Solar-thermal energy conversion prediction of building envelope using thermochemical sorbent based on established reaction kinetics. Energy Conversion and Management. 2022; 252. 
+Chunming Hu, Rui Wang, **Ping Yang**, et al. Numerical Investigation on Two-Phase Flow Heat Transfer Performance and Instability with Discrete Heat Sources in Parallel Channels. Energies. 2021; 14(15).

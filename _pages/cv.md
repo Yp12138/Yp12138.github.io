@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- Studying in University of Minnesota
+Studying in University of Minnesota
 ------
 Studied three courses: System Dynamics, Heat Transfer and Balloon & Rockets. 
 

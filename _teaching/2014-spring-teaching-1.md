@@ -1,6 +1,7 @@
 ---
 title: "Studying in University of Minnesota"
 collection: teaching
+permalink: /teaching/2014-spring-teaching-1
 location: "Minneapolis, US"
 redirect_from:
   - /resume

@@ -9,5 +9,5 @@ paperurl: 'https://doi.org/10.1016/j.energy.2023.126957'
 ---
 In this study, a numerical model is developed to quickly predict the flow distribution and heat transfer of two-phase flow in the parallel flow system, and the maximum average relative deviation with experimental data is 4.4%. The effects of geometric parameters and non-uniform thermal load on flow and heat transfer are discussed.
 
-[Download paper here](http://Yp12138.github.io/files/EGY1.pdf)
+[Download paper here](http://Yp12138.github.io/files/Energy-Yangping-2023-final.pdf)
 

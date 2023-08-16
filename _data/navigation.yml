@@ -6,9 +6,10 @@ main:
   - title: "Overseas Experience"
     url: /cv/    
     
-  - title: "Photography"
-    url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: https://Yp12138.github.io/assets/CV.pdf
+
+  - title: "Photography"
+    url: /portfolio/
     

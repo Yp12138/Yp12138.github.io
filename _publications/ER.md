@@ -1,7 +1,7 @@
 ---
 title: "*Numerical investigation on temperature control characteristics based on phase change temperature gradient arrangement*"
 collection: publications
-permalink: /publication/2022-ET-number-1
+permalink: /publication/ET
 excerpt: 'In this paper, a new idea of phase-change temperature control based on phase transition temperature gradient arrangement is proposed to optimize the temperature control and the phase change heat transfer process is studied numerically by COMSOL software. '
 date: 2022-06-15
 venue: 'Journal of Engineering Thermophysics (in Chinese)'

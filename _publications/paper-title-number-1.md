@@ -1,14 +1,15 @@
 ---
-title: "*Flow Distribution and Heat Transfer Performance of Two-Phase Flow in Parallel Flow Heat Exchange System*"
+title: "*A new structure of PCHE with embedded PCM for attenuating temperature fluctuations and its performance analysis*"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'In this study, a numerical model is developed to quickly predict the flow distribution and heat transfer of two-phase flow in the parallel flow system, and the maximum average relative deviation with experimental data is 4.4%. The effects of geometric parameters and non-uniform thermal load on flow and heat transfer are discussed. '
-date: 2023-02-14
+permalink: /publication/ERZUO-1
+excerpt: 'To attenuate the temperature fluctuations in the cycle, this study proposes a new structure with phase change materials embedded in the printed circuit heat exchanger. This structure package can contain a variety of phase change materials in a stepwise arrangement and a composite phase change material with expanded graphene. The effects of different flow directions, the number of layers in the phase change material ladder, whether the phase change material is compounded with expanded graphene or not, and the thickness of the phase change material were numerically compared.'
+date: 2022-06-03
 venue: 'Energy'
-paperurl: 'https://doi.org/10.1016/j.energy.2023.126957'
+paperurl: 'https://doi.org/10.1016/j.energy.2022.124462'
 ---
-In this study, a numerical model is developed to quickly predict the flow distribution and heat transfer of two-phase flow in the parallel flow system, and the maximum average relative deviation with experimental data is 4.4%. The effects of geometric parameters and non-uniform thermal load on flow and heat transfer are discussed.
 
-[Download paper here](http://Yp12138.github.io/files/Energy-Yangping-2023-final.pdf)
+To attenuate the temperature fluctuations in the cycle, this study proposes a new structure with phase change materials embedded in the printed circuit heat exchanger. This structure package can contain a variety of phase change materials in a stepwise arrangement and a composite phase change material with expanded graphene. The effects of different flow directions, the number of layers in the phase change material ladder, whether the phase change material is compounded with expanded graphene or not, and the thickness of the phase change material were numerically compared.
 
-**Ping Yang**, Weihao Ling, Ke Tian, et al. Flow Distribution and Heat Transfer Performance of Two-Phase Flow in Parallel Flow Heat Exchange System[J]. Energy, 2023, 270: 126957. 
+[Download paper here](https://doi.org/10.1016/j.energy.2022.124462)
+
+Lianjie Zhang, **Ping Yang**, Wei Li, et al. A new structure of PCHE with embedded PCM for attenuating temperature fluctuations and its performance analysis. Energy. 2022; 254.

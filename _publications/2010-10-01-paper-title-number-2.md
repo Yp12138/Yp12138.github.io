@@ -11,4 +11,4 @@ A visual experimental platform was established to investigate the heat transfer 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-**Ping Yang**, Bo Wu, Xuan Tong, et al. Insight into the heat transfer process of graphene aerogel composite phase change material[J]. Energy, 2023: 128051.
+**Ping Yang**, Bo Wu, Xuan Tong, et al. Insight into the heat transfer process of graphene aerogel composite phase change material[J]. Energy, 2023: 128051. 

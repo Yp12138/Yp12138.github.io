@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Selected Projects"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+ Studying in University of Minnesota
+------
+Studied three courses: System Dynamics, Heat Transfer and Balloon & Rockets. 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<img src='https://Yp12138.github.io/images/us1.png' style='width: 400px; height: 300px;'> 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Internship in LG Corporation of Korea
+------
+Trained to make CFD analysis and learned knowledge about air conditioning design.
+
+<img src='https://Yp12138.github.io/images/us1.png' style='width: 400px; height: 300px;'> 
+
+
+Numerical simulation on the aircraft icing process (Undergraduate Capstone Project at XJTU)
+------
+<img src='https://jingyu198.github.io/jingyu.github.io/images/img5.png' style='width: 500px; height: 250px;'>
+
+Numerically simulate the aircraft icing process, analyze the effects of several important environment factors on the ice shape. Our work provides theoretical support for the safe operation of aircraft.

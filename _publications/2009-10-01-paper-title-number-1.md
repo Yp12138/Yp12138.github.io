@@ -12,4 +12,3 @@ In this study, a numerical model is developed to quickly predict the flow distri
 
 [Download paper here](http://Yp12138.github.io/files/paper1.pdf)
 
-# Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

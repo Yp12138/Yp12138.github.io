@@ -28,6 +28,6 @@ Trained to make CFD analysis and learned knowledge about air conditioning design
 Cultural Communication in Israel
 ------
 
-<img src='https://jingyu198.github.io/jingyu.github.io/images/is2.png' style='width: 432px; height: 492px;'>
+<img src='https://Yp12138.github.io/images/is2.png' style='width: 432px; height: 492px;'>
 
 

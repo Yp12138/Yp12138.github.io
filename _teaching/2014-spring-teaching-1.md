@@ -9,3 +9,4 @@ location: "Minneapolis, US"
 Studied there courses: System Dynamics, Heat Transfer and Balloon & Rockets. 
 
  <img src='https://Yp12138.github.io/images/us1.png' style='width: 420px; height: 320px;'> 
+<img src='https://jingyu198.github.io/jingyu.github.io/images/img1.png' style='width: 460px; height: 230px;'> 

@@ -1,6 +1,7 @@
 ---
 title: "Internship in LG Corporation of Korea"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01

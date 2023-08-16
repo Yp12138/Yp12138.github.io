@@ -1,9 +1,8 @@
 ---
 title: "Studying in University of Minnesota"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-date: 2018-06
+date: 2018-06-01
 location: "Minneapolis, US"
 ---
 

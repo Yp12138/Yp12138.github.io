@@ -2,8 +2,8 @@
 title: "Studying in University of Minnesota"
 collection: teaching
 location: "Minneapolis, US"
-redirect_from:
-  - /resume
+redirect_from: 
+     - /resume
 ---
 {% include base_path %}
 

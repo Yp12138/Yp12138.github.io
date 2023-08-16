@@ -6,7 +6,6 @@ excerpt: 'With the rapid growth of computing demand and the wide application of 
 date: 2023-01-02
 venue: 'Heat Transfer Engineering'
 paperurl: 'https://doi.org/10.1080/01457632.2023.2213997'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 With the rapid growth of computing demand and the wide application of multichip devices, heat sources are distributed discretely in space. Therefore, the flow boiling in the mini-channel with two discrete heat sources is investigated in this study. The effects of heat source distribution, inlet fluid temperature and channel diameter on flow pattern, heat transfer and pressure drop are discussed in detail.
 

@@ -3,12 +3,9 @@ title: "Life"
 excerpt: ""
 collection: portfolio
 ---
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/1.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/2.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/3.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/4.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/5.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/6.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/7.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/8.png'>
-<img src='https://jingyu198.github.io/jingyu.github.io/images/friends/9.png'>
+<img src='https://Yp12138.github.io/images/life0.jpg'>
+<img src='https://Yp12138.github.io/images/life1.jpg'>
+<img src='https://Yp12138.github.io/images/life2.jpg'>
+<img src='https://Yp12138.github.io/images/life3.jpg'>
+<img src='https://Yp12138.github.io/images/life4.jpg'>
+
